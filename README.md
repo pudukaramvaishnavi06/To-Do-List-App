@@ -1,33 +1,21 @@
-# Responsive Landing Page
+# To-Do List Web App
 
 ## Description
-This is a simple responsive landing page created using HTML and CSS.
+A simple To-Do List application built using HTML, CSS, and Vanilla JavaScript.
 
 ## Features
-- Responsive header with navigation menu
-- Hero section with heading, paragraph, and Call-to-Action button
-- Footer with social media links
-- Responsive design using CSS Media Queries
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- Dynamic updates without page reload
 
 ## Technologies Used
 - HTML5
 - CSS3
-- Flexbox
-- Media Queries
+- JavaScript (ES6)
 
 ## How to Run
-1. Download or clone this repository.
-2. Open `index.html` in any web browser.
-3. Or use the Live Server extension in VS Code.
-
-## Project Structure
-```
-Landing-Page/
-│── index.html
-│── style.css
-│── screenshot.png
-│── README.md
-```
+Open `index.html` in a browser or use the Live Server extension in VS Code.
 
 ## Author
 Vaishnavi
